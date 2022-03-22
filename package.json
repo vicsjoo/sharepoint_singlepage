@@ -9,20 +9,20 @@
     "test": "gulp test"
   },
   "dependencies": {
-    "@microsoft/sp-core-library": "1.12.1",
+    "@microsoft/sp-core-library": "1.14.0",
     "@microsoft/sp-property-pane": "1.12.1",
     "@microsoft/sp-webpart-base": "1.12.1",
     "@microsoft/sp-lodash-subset": "1.12.1",
     "@microsoft/sp-office-ui-fabric-core": "1.12.1"
   },
   "devDependencies": {
-    "@microsoft/sp-build-web": "1.12.1",
-    "@microsoft/sp-tslint-rules": "1.12.1",
+    "@microsoft/sp-build-web": "1.14.0",
+    "@microsoft/sp-tslint-rules": "1.14.0",
     "@microsoft/sp-module-interfaces": "1.12.1",
     "@microsoft/sp-webpart-workbench": "1.12.1",
     "@microsoft/rush-stack-compiler-3.7": "0.2.3",
     "gulp": "~4.0.2",
     "ajv": "~6.12.6",
-    "@types/webpack-env": "1.13.1"
+    "@types/webpack-env": "1.16.3"
   }
 }
