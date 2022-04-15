@@ -4,8 +4,6 @@
 
 Short summary on functionality and used technologies.
 
-[picture of the solution in action, if possible]
-
 ## Used SharePoint Framework Version
 
 ![version](https://img.shields.io/npm/v/@microsoft/sp-component-base/latest?color=green)
@@ -19,7 +17,7 @@ Short summary on functionality and used technologies.
 
 ## Prerequisites
 
-> Any special pre-requisites?
+> No prerequisites required.
 
 ## Solution
 
@@ -71,4 +69,3 @@ This extension illustrates the following concepts:
 - [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
 - [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
 - [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
-- 
