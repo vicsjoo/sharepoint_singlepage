@@ -1,4 +1,4 @@
-# hello-world
+# sharepoint-singlepage-app
 
 ## Summary
 
