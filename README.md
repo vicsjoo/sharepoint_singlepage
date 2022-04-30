@@ -1,4 +1,4 @@
-# sharepoint-singlepage-app
+# SharePoint Single-Page App
 
 ## Summary
 
