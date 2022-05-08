@@ -1,8 +1,4 @@
-# SharePoint Single-Page App
-
-## Summary
-
-Short summary on functionality and used technologies.
+# SharePoint Single-Page App.
 
 ## Used SharePoint Framework Version
 
