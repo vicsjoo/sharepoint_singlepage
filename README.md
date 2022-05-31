@@ -1,4 +1,5 @@
 # SharePoint Single-Page App.
+
 ## Used SharePoint Framework Version
 
 ![version](https://img.shields.io/npm/v/@microsoft/sp-component-base/latest?color=green)
