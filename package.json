@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@microsoft/sp-build-web": "1.14.0",
-    "@microsoft/sp-tslint-rules": "1.14.0",
+    "@microsoft/sp-tslint-rules": "1.17.2",
     "@microsoft/sp-module-interfaces": "1.14.0",
     "@microsoft/sp-webpart-workbench": "1.12.1",
     "@microsoft/rush-stack-compiler-3.7": "0.6.48",
