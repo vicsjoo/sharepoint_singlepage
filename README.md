@@ -1,4 +1,4 @@
-# spapp
+# sharepoint_singlepage
 
 ## Summary
 
