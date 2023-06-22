@@ -18,7 +18,7 @@
   "devDependencies": {
     "@microsoft/sp-build-web": "1.17.3",
     "@microsoft/sp-tslint-rules": "1.17.3",
-    "@microsoft/sp-module-interfaces": "1.17.3",
+    "@microsoft/sp-module-interfaces": "1.17.4",
     "@microsoft/sp-webpart-workbench": "1.12.1",
     "@microsoft/rush-stack-compiler-3.7": "0.8.0",
     "gulp": "~4.0.2",
